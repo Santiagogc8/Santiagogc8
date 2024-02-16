@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<h1><span style="color: #ff0000"> Soy Santiago Guzman </span></h1>
-
-
-
 <!--
 **Santiagogc8/Santiagogc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
