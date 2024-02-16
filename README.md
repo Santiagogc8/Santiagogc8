@@ -1,5 +1,7 @@
 ### Hi there 👋
-<h1 style="color: #ff0000; font-size: 24px; font-weight: bold; text-align: center"> Soy Santiago Guzman </h1>
+
+<h1><span style="color: #ff0000"> Soy Santiago Guzman </span></h1>
+
 
 
 <!--
