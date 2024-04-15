@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Soy Santiago Guzman, un joven apasionado por la tecnologia<br><br>- 🔍 Actualmente estoy trabajando por mi cuenta<br>- 📖 Estoy aprendiendo todo sobre desarrollo web<br>- ⚡ En mi tiempo libre, busco proyectos nuevos para poner en practica mis conocimientos</p>
+<p align="left">Soy Santiago Guzman, un joven apasionado por la tecnologia<br><br>- 🔍 Actualmente estoy trabajando por mi cuenta<br>- 📖 Estoy aprendiendo todo sobre desarrollo web<br>- ⚡ En mi tiempo libre, busco proyectos nuevos para poner en practica mis conocimientos</p><br>
 
 ###
 
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</div> <br>
 
 ###
 
@@ -68,7 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+</div> <br>
 
 ###
 
