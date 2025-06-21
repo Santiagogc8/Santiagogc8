@@ -86,6 +86,6 @@ If you are interested in what I do, feel free to connect!
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagogc8&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagogc8&hide_border=true&layout=compact&transparent=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Santiagogc8&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Santiagogc8&show_icons=true&count_private=true&hide_border=true&transparent=true" align="center" /></div>  
