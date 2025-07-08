@@ -4,7 +4,7 @@
 
 <br/>  
 
-# <a href="https://github.com/Santiagogc8"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&size=28&pause=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Santiago+Guzman%2C+welcome+to+my+GitHub;I+hope+we+can+work+together;I'm+glad+you're+here;Don't+forget+to+contact+me" alt="Typing SVG" /></a>
+# <a href="https://github.com/Santiagogc8"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&size=28&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Santiago+Guzman%2C+welcome+to+my+GitHub+%F0%9F%91%8B%F0%9F%8F%BB;I+hope+we+can+work+together+%F0%9F%AB%B1%F0%9F%8F%BB%E2%80%8D%F0%9F%AB%B2%F0%9F%8F%BB;I'm+glad+you're+here+%F0%9F%98%8A;Don't+forget+to+contact+me+%E2%98%8E%EF%B8%8F;You+can+also+leave+a+star+if+you+like+what+I+do+%E2%AD%90" alt="Hi! I'm Santiago Guzman" /></a>
   
 
 Nice to see you here. I'm a systems engineer and front-end developer, always looking for new challenges and learning to be fullstack.
