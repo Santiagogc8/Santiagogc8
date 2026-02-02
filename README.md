@@ -51,6 +51,7 @@ If you are interested in what I do, feel free to connect!
       <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="Ava" height="60" /></a>
       <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="50" /></a>
       <a href="https://sequelize.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="Sequelize" height="60" /></a>
+      <a href="https://nextjs.org/" target="_blank"><img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Sequelize" height="60" /></a>
     </div>
   </div>
 </div>
