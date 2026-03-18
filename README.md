@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://santiagoguzman.dev/OG-Santiago-Guzman.png" align="center" style="width: 100%" />
+<img src="https://www.santiagoguzman.dev/og-image.png" align="center" style="width: 100%" />
 </div>  
 
 <br/>  
