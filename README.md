@@ -29,57 +29,50 @@ If you are interested in what I do, feel free to connect!
 
 <br/>  
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"> My Skill Set
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> My Skill Set
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; background-color: #0D1117; padding: 20px; border-radius: 8px;">
-  <div style="flex: 1; min-width: 300px; margin-bottom: 20px;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" /></a>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" /></a>
-      <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /></a>
-      <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a>
-      <a href="https://www.astro.build/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="60" /></a>
-      <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>
-      <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" /></a>
-      <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-      <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/></a>
-      <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
-      <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="60" height="60"/></a>
-      <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="Ava" height="60" /></a>
-      <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="50" /></a>
-      <a href="https://sequelize.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="Sequelize" height="60" /></a>
-      <a href="https://nextjs.org/" target="_blank"><img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Sequelize" height="60" /></a>
-    </div>
-  </div>
+<div align="center">
+  <p>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML5" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.astro.build/" target="_blank"><img src="https://cdn.brandfetch.io/idFch1tiTl/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Astro" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://nextjs.org/" target="_blank"><img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" alt="PostgreSQL" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://expressjs.com" target="_blank"><img src="https://cdn.brandfetch.io/idh1lvV1BF/w/124/h/124/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Express" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://bulma.io/" target="_blank"><img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="Bulma" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.npmjs.com/package/ava" target="_blank"><img src="https://raw.githubusercontent.com/avajs/ava/HEAD/media/header.png" alt="AVA" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://www.algolia.com/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Algolia.svg" alt="Algolia" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://sequelize.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="Sequelize" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="n8n" height="60" /></a>&nbsp;&nbsp;
+    <a href="https://graphql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" alt="GraphQL" height="60" /></a>
+  </p>
 </div>
 
 <br>
 
 
 ## 🧩 Connect with me  
+
 <div align="center">
-<a href="https://github.com/Santiagogc8" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://santiagoguzman.dev/" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%23FFD54F.svg?&style=for-the-badge&logo=devBox&logoColor=black alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/santiago-guzmán-326b3321a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/santiago_gc_8" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://github.com/Santiagogc8" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>&nbsp;&nbsp;
+  <a href="https://santiagoguzman.dev/" target="_blank"><img src="https://img.shields.io/badge/portfolio-a3e635?style=for-the-badge&logo=devBox&logoColor=black" alt="portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/santiago-guzmán-326b3321a" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/santiago_gc_8" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+</div>
   
 
 <br/>  
 
 
 ## 📊 Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagogc8&hide_border=true&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=FFBF00" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiagogc8&hide_border=true&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=a3e635" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Santiagogc8&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=FFBF00&icon_color=FFBF00" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Santiagogc8&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=a3e635&icon_color=a3e635" align="center" /></div>
