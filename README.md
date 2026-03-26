@@ -53,6 +53,7 @@ If you are interested in what I do, feel free to connect!
     <a href="https://sequelize.org/" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/Sequelize.svg" alt="Sequelize" height="60" /></a>&nbsp;&nbsp;
     <a href="https://n8n.io/" target="_blank"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/n8n-color.png" alt="n8n" height="60" /></a>&nbsp;&nbsp;
     <a href="https://graphql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/960px-GraphQL_Logo.svg.png" alt="GraphQL" height="60" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.brandfetch.io/id5_eOiB6T/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Docker" height="50" /></a>
   </p>
 </div>
 
